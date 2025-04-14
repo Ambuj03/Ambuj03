@@ -1,5 +1,5 @@
 # 💫 About Me:
-Looking forward to go deep into back-end systems.
+Learning and sharing about Auth, APIs, System Design etc....
 
 
 ## 🌐 Socials:
