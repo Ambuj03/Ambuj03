@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ambuj Mishra
+# Hi 👋, I'm Ambuj
 
 ### Software Developer
 
