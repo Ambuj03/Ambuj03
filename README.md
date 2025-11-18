@@ -1,8 +1,6 @@
-# Hi 👋, I'm Ambuj
+### Software Engineer
 
-### Software Developer
-
-- 🔭 I'm currently working on **shipping features, improving fundamentals, learning AI etc**
+- 🔭 Current working as a **FTE**
 
 - 📫 How to reach me **mishraambuj8269@gmail.com**
 
