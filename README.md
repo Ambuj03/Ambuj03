@@ -1,6 +1,6 @@
 ### Software Engineer
 
-- 🔭 Current working as a **FTE**
+- 🔭 Current working as a **Software Developer**
 
 - 📫 How to reach me **mishraambuj8269@gmail.com**
 
