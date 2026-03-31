@@ -1,6 +1,6 @@
 ### Software Engineer
 
-- 🔭 Current working as a **Software Developer**
+- 🔭 Currently working as a **Software Developer**
 
 - 📫 How to reach me **mishraambuj8269@gmail.com**
 
